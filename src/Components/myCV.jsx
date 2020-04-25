@@ -19,11 +19,11 @@ const useStyles = makeStyles((theme) => ({
   },
   media: {
     [theme.breakpoints.up("xl")]: {
-      height: "83rem",
+      height: "82rem",
       width: "100%",
     },
     [theme.breakpoints.between("md", "lg")]: {
-      height: "230vh",
+      height: "129rem",
       width: "100%",
     },
 
