@@ -1,4 +1,13 @@
-.App {
+body {
+  background: url("./Components/fhd.png") center center fixed repeat;
+
+  -webkit-background: cover;
+  -moz-background: cover;
+  -o-background: cover;
+  background: cover;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +44,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
